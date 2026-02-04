@@ -39,7 +39,7 @@ const DATA = {
             description: "Mụn xuất hiện thường đi kèm với cảm giác đau nhức và khô căng rất khó chịu. Gel facesmooth được tạo ra để giúp bà làm dịu những vùng da ấy một cách nhẹ nhàng nhất. Với chiết xuất khổ qua và thành phần dưỡng ẩm, sản phẩm hỗ trợ cải thiện mụn mà vẫn giữ cho da mềm mại, không bị bong tróc.",
             buttonText: "MUA NGAY",
             link: "https://shopee.vn/Gel-Ch%E1%BA%A5m-M%E1%BB%A5n-Facesmooth-Bio-Exo-C%C3%B4ng-Ngh%E1%BB%87-Sinh-H%E1%BB%8Dc-Gom-C%E1%BB%93i-Gi%E1%BA%A3m-S%C6%B0ng-Vi%C3%AAm-Ng%E1%BB%ABa-Th%C3%A2m-C%E1%BA%A5p-T%E1%BB%91c-i.1679856320.54953493155?extraParams=%7B%22display_model_id%22%3A430423261223%7Dhttps://shopee.vn/Gel-Ch%E1%BA%A5m-M%E1%BB%A5n-Facesmooth-Bio-Exo-C%C3%B4ng-Ngh%E1%BB%87-Sinh-H%E1%BB%8Dc-Gom-C%E1%BB%93i-Gi%E1%BA%A3m-S%C6%B0ng-Vi%C3%AAm-Ng%E1%BB%ABa-Th%C3%A2m-C%E1%BA%A5p-T%E1%BB%91c-i.1679856320.54953493155?extraParams=%7B%22display_model_id%22%3A430423261223%7Det.html", // Bà thêm link này để khi bấm nút nó dẫn tới trang sản phẩm Tết
-            backgroundImage: "./SOURCE/FS-BANNER-01-WEB.jpg"
+            backgroundImage: "./SOURCE/FS-BANNER-02-WEB.jpg"
         }
     ],
     brandSlogan: 'TỰ TIN MỌI "LOOK" ',
