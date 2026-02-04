@@ -55,7 +55,7 @@ const DATA = {
     },
     brandPhilosophy: {
         title: "Triết lý THƯƠNG HIỆU",
-        description: "Là những người yêu thiên nhiên và đam mê khám phá các nguồn nguyên liệu đặc hữu của Việt Nam, chúng tôi luôn kiên định với những triết lý trên hành trình tìm vẻ đẹp thật sự của làn da.",
+        description: "Facesmooth là người bạn đồng hành chân thành, giúp bạn xóa tan nỗi lo về mụn bằng những giải pháp dịu nhẹ từ thiên nhiên. Với triết lý \"Tự tin mọi Look\", chúng tôi cam kết cùng bạn nuôi dưỡng làn da khỏe mạnh để bạn luôn rạng rỡ và tỏa sáng theo cách riêng của mình trong mọi khoảnh khắc.",
         backgroundImage: "./SOURCE/FS-01.png", // Ảnh các loại quả thiên nhiên
         buttonText: "TÌM HIỂU THÊM",
         link: "https://shopee.vn/Gel-Ch%E1%BA%A5m-M%E1%BB%A5n-Facesmooth-Bio-Exo-C%C3%B4ng-Ngh%E1%BB%87-Sinh-H%E1%BB%8Dc-Gom-C%E1%BB%93i-Gi%E1%BA%A3m-S%C6%B0ng-Vi%C3%AAm-Ng%E1%BB%ABa-Th%C3%A2m-C%E1%BA%A5p-T%E1%BB%91c-i.1679856320.54953493155?extraParams=%7B%22display_model_id%22%3A430423261223%7D"
